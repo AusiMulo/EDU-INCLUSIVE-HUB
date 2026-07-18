@@ -1,0 +1,6 @@
+{
+  "name": "EduInclusive",
+  "description": "An interactive, inclusive online and blended learning platform featuring a tutoring board, educational songs, sign language lessons, and an AI-powered IT chatbot for students with hearing impairments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
